@@ -1,0 +1,26 @@
+{
+  "name": "wp-spa",
+  "version": "0.0.1",
+  "description": "WP SPA, a Single Page Application WordPress theme",
+  "homepage": "https://wpspa.org",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wpspa/theme"
+  },
+  "author": {
+    "name": "Jared Rethman",
+    "email": "info@jaredrethman.com",
+    "url": "https://jaredrethman.com",
+    "role": "developer"
+  },
+  "scripts": {
+  },
+  "license": "MIT",
+  "devDependencies": {
+  },
+  "engines": {
+    "node": ">=8.3"
+  },
+  "dependencies": {
+  }
+}
