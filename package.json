@@ -1,5 +1,5 @@
 {
-  "name": "wp-spa",
+  "name": "@wpspa/theme",
   "version": "0.0.1",
   "description": "WP SPA, a Single Page Application WordPress theme",
   "homepage": "https://wpspa.org",
@@ -13,14 +13,25 @@
     "url": "https://jaredrethman.com",
     "role": "developer"
   },
-  "scripts": {
-  },
+  "scripts": {},
   "license": "MIT",
   "devDependencies": {
+    "@babel/core": "^7.7.7",
+    "@babel/preset-env": "^7.7.7",
+    "@babel/preset-react": "^7.7.4",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.10.1",
+    "webpack-merge": "^4.2.2"
   },
   "engines": {
     "node": ">=8.3"
   },
   "dependencies": {
+    "core-js": "^3.2.1",
+    "lodash": "^4.17.15",
+    "prop-types": "^15.7.2",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
   }
 }
