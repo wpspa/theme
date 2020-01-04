@@ -13,8 +13,8 @@
     "url": "https://jaredrethman.com",
     "role": "developer"
   },
-  "scripts": {},
   "license": "MIT",
+  "scripts": {},
   "devDependencies": {
     "@babel/core": "^7.7.7",
     "@babel/preset-env": "^7.7.7",
